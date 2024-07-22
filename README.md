@@ -1,5 +1,5 @@
-# diegolopezco
-My Portfolio Website 😊
+# DiegoLopezInc
+My Portfolio Website
 
 ## License
 
